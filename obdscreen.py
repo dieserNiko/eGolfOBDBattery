@@ -61,7 +61,7 @@ bottom = height-padding
 x = 0
 
 # Load font.
-font = ImageFont.truetype('/root/Helvetica.ttf', 38)
+font = ImageFont.truetype('/root/VAGRoundedRegular.ttf', 38)
 
 # Create OBD connection to defined serial port (with baudrate etc)
 c = obd.OBD("/dev/ttyUSB0")
